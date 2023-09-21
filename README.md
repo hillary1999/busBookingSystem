@@ -1,5 +1,5 @@
 # busBookingSystem
-(for the login details check below)
+(for the login details check below.)
 *Database Name: sbtbsphp**
 
 **Developed by Hillary Oketch**
