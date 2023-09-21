@@ -17,4 +17,4 @@ Password: Password@123
    # Create a Database with a name that is provided inside the “README.md"
    # Finally, click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
    # After setting up all these, go to URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
-   # All the login details are provided inside the README.d, check that out and enter in order to use it.#
+   # All the login details are provided inside the README.md, check that out and enter in order to use it.#
